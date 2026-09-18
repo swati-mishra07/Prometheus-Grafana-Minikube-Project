@@ -1,7 +1,7 @@
 # Prometheus-Grafana-Minikube-Project
 This project is used to do the monitoring and alerting implementation on minikube cluster.
 # **Flask Application with Metrics**  
-🚀 A complete guide to deploying a Flask application on Minikube, setting up Prometheus for metrics collection, and visualizing data on Grafana. This step-by-step tutorial is beginner-friendly and packed with practical instructions for a seamless hands-on experience.  
+🚀 A complete guide to deploying a Flask application on Minikube, setting up Prometheus for metrics collection, and visualizing data on Grafana. This step-by-step project taught me how work done in production level and packed with practical instructions for a seamless hands-on experience. In this project i don't use high ML level project and do monitioring on this because of size of my ram , instead i use small  application for experience both prometheus-grafana- minikube through this project. 
 
 ---
 
